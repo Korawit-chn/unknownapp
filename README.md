@@ -3,9 +3,9 @@ This is an unknown application written in Java
 
 ---- For Submission (you must fill in the information below) ----
 ### Use Case Diagram
-    ![alt text](image.png)
+<img width="711" height="716" alt="image" src="https://github.com/user-attachments/assets/0a63785b-56a2-42a9-b6d0-e8a1e821c39a" />
 ### Flowchart of the main workflow
-    ```mermaid
+```mermaid
 
     flowchart TD
     A[Start] --> B{"Switch (login)"}
@@ -64,7 +64,7 @@ This is an unknown application written in Java
     I --> |Case 9| A9 --> Z
     I --> |Case 10| A10 --> Z
     
-    ```
+ ```
 ### Prompts
 prompt 1:
  * message: base on Main.java recreate Login case that have the same option in python language. Put the Python program in a new folder called “python.”
