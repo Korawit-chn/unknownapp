@@ -4,7 +4,9 @@ This is an unknown application written in Java
 ---- For Submission (you must fill in the information below) ----
 ### Use Case Diagram
 <img width="711" height="716" alt="image" src="https://github.com/user-attachments/assets/0a63785b-56a2-42a9-b6d0-e8a1e821c39a" />
+
 ### Flowchart of the main workflow
+
 ```mermaid
 
     flowchart TD
